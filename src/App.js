@@ -20,6 +20,7 @@ function App() {
         
       <Route path="/" element={<Home />}></Route>
       <Route path="/" element={<SideBar />}></Route>
+    
 
 
 <Route path="/profile" element={<Profile />}></Route>
